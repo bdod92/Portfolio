@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore the other portfolios
+Alternative_Portfolios
+
 # Distribution / packaging
 .Python
 build/
